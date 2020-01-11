@@ -1,0 +1,3 @@
+Files placed in the modules/server folder will be loaded serverside after AWarn2 has loaded. You can use this to overwrite or add functionality to AWarn2 without modifying base code.
+
+Files placed in the modules/client folder will be loaded clientside after AWarn2 has loaded. You can use this to overwrite or add functionality to AWarn2 without modifying base code. You can also use this to change the VGUI or menus if you want.
